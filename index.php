@@ -9,8 +9,12 @@
   <body>
   
       <center>
-      
-        <h3> This page is under construction | Nada 3122 </h3>
+        
+        <?php
+
+            echo "Hello World";          
+
+        ?>
       
       </center>
   
